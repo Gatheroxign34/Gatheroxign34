@@ -1,6 +1,6 @@
 
 
-<img width="687" alt="Gatherosign Photo" src="https://user-images.githubusercontent.com/94628744/210380965-d20ba663-e13d-40c4-bc3a-0bcdb23c3a47.png">
+<img width="1000" alt="Gatherosign Photo" src="https://user-images.githubusercontent.com/94628744/210380965-d20ba663-e13d-40c4-bc3a-0bcdb23c3a47.png">
 
 
 - 🔭 I’m currently working on learning about webscraping and natural language processing.
