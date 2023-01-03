@@ -11,5 +11,5 @@
 - 📫 How to reach me: Send me an email at llynnh4@gmail.com. 
 - 😄 Pronouns: She, Her, Hers
 - ⚡ Fun Fact: Gifted people can be confused with people who have Autism Spectrum Disorder because educators often confuse their characteristics at a young age.
-- ⚡ Second Fun Fact: Some people are called 2e (double exceptional) because they have characteristics on both the gifted and Autism spectrum.  
+- ⚡ Second Fun Fact: Some people are called 2e (double exceptional) because they have characteristics on both the Gifted and Autism spectra.  
 
