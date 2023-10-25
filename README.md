@@ -1,6 +1,6 @@
 
 
-<img width="1000" alt="Gatherosign Photo" src="https://user-images.githubusercontent.com/94628744/210380965-d20ba663-e13d-40c4-bc3a-0bcdb23c3a47.png">
+![Copy of GatheroSIGN34(2)](https://github.com/Gatheroxign34/U.S.-College-Debt-/assets/94628744/84f9f1e3-aca5-47a2-b5fc-85292c1a885b)
 
 
 - 🔭 I’m currentlylearning about ethical webscraping, natural language processing and large language models.
