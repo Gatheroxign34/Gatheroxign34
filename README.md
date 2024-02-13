@@ -5,7 +5,8 @@
 
 - 🔭 I’m currentlylearning about ethical webscraping, natural language processing and large language models.
 - 🌱 I’m currently learning R (including dplyr and ggplot2)
-- 👯 I’m looking to collaborate on public policy projects related to youth, education, technology and accessibility. 
+- 👯 I’m looking to collaborate on public policy projects related to youth, education, technology and accessibility.
+- 👯 I'm a broad thinker I'll collaborate on anything related to equity and access to education/resources/jobs/insurance.
 - 🤔 I’m looking for help with topics related to businesses that have an interest in doing people analytics, equitable and sustainable community practices (ESG, B Corporations, Diversity, Equity and Inclusion)  
 - 💬 Ask me about how I learned Python and Seaborn.  
 - 📫 How to reach me: Send me an email at llynnh4@gmail.com. 
